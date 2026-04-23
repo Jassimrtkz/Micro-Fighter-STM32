@@ -60,5 +60,5 @@ A video demonstration of gameplay, LED feedback, and audio behaviour is included
 
 ## 👨‍💻 Author
 
-Sultan – University of Leeds  
+Jassim Khalid I S Almuhaiza – University of Leeds  
 ELEC2645 Embedded Systems Mini Project
