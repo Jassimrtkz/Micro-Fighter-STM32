@@ -50,7 +50,7 @@ SPI LCD, joystick input, push buttons, PWM audio (buzzer), and LED indicators ar
    - Buzzer
    - LEDs  
 
----
+-----
 
 ## 📹 Demonstration
 
