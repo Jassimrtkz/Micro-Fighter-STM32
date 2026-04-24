@@ -1,12 +1,12 @@
 # Micro-Fighter-STM32
 
-An STM32-based real-time embedded combat game implemented using SPI LCD, joystick input, push buttons, PWM audio (buzzer), and LED indicators.
+SPI LCD, joystick input, push buttons, PWM audio (buzzer), and LED indicators are used in this STM32-based real-time embedded fighting game.
 
 ---
 
 ## 📦 Project Files
 
-⚠️ Due to the large number of STM32 source files, the full project is provided as a ZIP archive:
+⚠️ The entire project is supplied as a ZIP bundle due to the substantial quantity of STM32 source files:
 
 ➡️ **Download:** `Unit_4_1_Pong-main.zip`
 
@@ -14,16 +14,16 @@ An STM32-based real-time embedded combat game implemented using SPI LCD, joystic
 
 ## 🎮 Features
 
-- Real-time game loop using HAL_GetTick (non-blocking timing)
+- HAL_GetTick in real-time game loop (non-blocking timing)
 - State machine architecture (START / PLAYING / GAME OVER)
 - Player vs Enemy combat system with collision detection
-- Health bar system and scoring logic
+- Logic for scoring and the health bar system
 - Special attack with cooldown mechanism
 - SPI LCD rendering (ST7789 driver)
 - Joystick-based movement input
-- Button-based actions (jump, block, special)
+- Jump, block, and special button-based actions
 - PWM-based audio feedback (buzzer)
-- LED indicators for hit feedback and game events
+- Hit feedback and game event LED indications
 
 ---
 
@@ -40,9 +40,9 @@ An STM32-based real-time embedded combat game implemented using SPI LCD, joystic
 
 ## 🚀 How to Run
 
-1. Download and extract the ZIP file  
+1. Get the ZIP file, then extract it.
 2. Open the project in STM32CubeIDE  
-3. Build and flash to STM32 board  
+3. Build and flash STM32 board  
 4. Connect:
    - SPI LCD
    - Joystick
@@ -54,7 +54,7 @@ An STM32-based real-time embedded combat game implemented using SPI LCD, joystic
 
 ## 📹 Demonstration
 
-A video demonstration of gameplay, LED feedback, and audio behaviour is included in the project submission.
+The project entry includes a video showcasing gameplay, LED feedback, and audio behaviour.
 
 ---
 
