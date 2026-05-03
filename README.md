@@ -1,4 +1,4 @@
-# Micro-Fighter-STM32
+# MicroFighter-STM32
 
 SPI LCD, joystick input, push buttons, PWM audio (buzzer), and LED indicators are used in this STM32-based real-time embedded fighting game.
 
